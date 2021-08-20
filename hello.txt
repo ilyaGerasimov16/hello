@@ -1,3 +1,4 @@
 Hello
 hi
 change
+New string
